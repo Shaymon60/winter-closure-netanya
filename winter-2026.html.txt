@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="he" dir="rtl">
+<head>
+  <meta charset="UTF-8" />
+  <title>סגירות חורף 2026</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>סגירות חורף 2026</h1>
+    <nav>
+      <a href="index.html">חזרה לדף הבית</a>
+    </nav>
+  </header>
+  <main>
+    <p>אנחנו מתכוננים כבר לחורף 2026 עם פתרונות חדשניים לסגירות עמידות, יפות ומותאמות אישית.</p>
+  </main>
+  <footer>
+    <p>צור קשר לקבלת הצעת מחיר חינם</p>
+  </footer>
+</body>
+</html>
